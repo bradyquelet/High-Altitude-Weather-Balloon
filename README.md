@@ -45,15 +45,13 @@ The system is designed to collect and log the following data:
 - MicroSD card
 - Battery power supply
 - Jumper wires / soldered connections
-- Prototype enclosure or payload housing
+- 3D printed payload housing
 
 ## Software Used
 
 - Arduino IDE
 - C/C++
-- Serial Monitor
-- CSV data logging
-- Web/app dashboard for live telemetry visualization
+- HTML
 
 ## Repository Structure
 
